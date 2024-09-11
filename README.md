@@ -1,3 +1,5 @@
-# Portifolio antigo feito para prativar css e javascript 
+# Antigo portifólio  
 
-https://lucas6226.github.io/Portifolio/
+Site feito para exercitar conhecimentos em CSS e JavaScript e demonstrar meus conhecimentos.
+
+https://old-portifolio.vercel.app/
